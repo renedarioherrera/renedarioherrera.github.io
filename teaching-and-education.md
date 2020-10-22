@@ -28,19 +28,3 @@ Assigned homework will ask students to generate ideas about the content ahead of
 Class activities will be focused on allowing students to test their ideas about the content in a safe space and student presentations will provide opportunities to excel at effectively communicating ideas.
 
 As the persons responsible for providing the opportunity for student learning I make myself available to students by offering a variety of times for office hours and responding promptly to all student inquiries.
-
-## Curriculum Vitae
-
-[Click here to view: ](http://myweb.usf.edu/~reneherrera/cv.html)
-
-## Sample Syllabus
-
-[Click here to view a sample syllabus ](https://www.dropbox.com/s/pmt637ii4j6q34p/Syllabus-Sample-2016-03-04.pdf?dl=0)
-
-## Sample Lesson Plan
-
-[Click here to view a sample lesson plan ](https://www.dropbox.com/s/ft22gatemmvd36s/lesson-plan-sample-2016-03-04.pdf?dl=0)
-
-## Sample Rubric
-
-[Click here to view a sample rubric ](https://www.dropbox.com/s/p2j29q4za6xz6vq/rubric-sample.pdf?dl=0)

@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+With a love of learning and education, Rene has dedicated himself to gaining the skills and experience he believes are needed to apply anthropology to public health practice.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Now having earned an MA, MPH, and graduate certificate from the [University of South Florida](https://www.usf.edu/) he is now serving his community as an educator at [Estrella Mountain Community College](https://www.estrellamountain.edu/) and as a data analyst for the [University of Arizona Cancer Center](https://cancercenter.arizona.edu/outreach-and-education/community).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Rene has pursued additional training and is a graduate from [American Express Leadership Academy at the ASU Lodestar Center](https://lodestar.asu.edu/content/american-express-leadership-academy) where he learned of best practice approaches to leading and managing nonprofits and from the [Valle del Sol Hispanic Leadership Institute](http://www.valledelsol.com/hli/) where he learned how unique and valuable his particular cultural experience can be.
 
+Rene believes in using his work to make a positive impact in the community. This reflects his character strength in citizenship, teamwork, and loyalty. Rene sees himself as part of many communities of varying sizes, connected by a web of shared geography and sociocultural identities. From this perspective Rene has made a personal commitment to position himself in professional and service roles that have some perceived positive social benefit.
 
-[jekyll-organization]: https://github.com/jekyll
+In a professional capacity, Rene has worked as a personal trainer, group exercise coach, nonprofit manager and supervisor, health educator, educator, and researcher.

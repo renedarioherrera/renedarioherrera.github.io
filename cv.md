@@ -104,3 +104,9 @@ Education
     Biostatistics
 -   2008 B.S., **Arizona State University** (cum laude), Exercise and
     Wellness with minor in Anthropology
+
+Volunteer Experience
+--------------------
+
+-   City of Phoenix Human Relations Commission. Commissioner. 2020 -
+    Present

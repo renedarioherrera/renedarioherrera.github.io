@@ -15,14 +15,7 @@ Key Skills
 -   Data gathering • Data management • Research design
 -   Text analysis • Data processing • Ethnographic research
 -   Multimedia production • Building codebooks • Public speaking
-
-Portfolio
----------
-
-**Data analysis portfolio:** \[https://github.com/UACC-renedherrera\]
-**Dashboard examples** https://rpubs.com/UAZCC\_Rene\
-**Mapping with arcGIS**
-https://www.arcgis.com/home/item.html?id=c1d23697ede24d03b5807049597dc186
+- [Research portfolio](https://renedarioherrera.github.io/portfolio.html)
 
 Professional Experience
 -----------------------

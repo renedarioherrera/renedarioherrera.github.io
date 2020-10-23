@@ -15,7 +15,7 @@ Key Skills
 -   Data gathering • Data management • Research design
 -   Text analysis • Data processing • Ethnographic research
 -   Multimedia production • Building codebooks • Public speaking
-- [Research portfolio](https://renedarioherrera.github.io/portfolio.html)
+
 
 Professional Experience
 -----------------------

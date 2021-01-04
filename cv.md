@@ -6,9 +6,6 @@ title: CV
 Rene Dario Herrera
 ==================
 
-Phoenix, Arizona\
-reneherrera@fastmail.com - (480) 459 - 6284
-
 Key Skills
 ----------
 

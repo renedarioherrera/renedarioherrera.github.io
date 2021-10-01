@@ -9,9 +9,15 @@ Rene Dario Herrera
 Key Skills
 ----------
 
--   Data gathering • Data management • Research design
--   Text analysis • Data processing • Ethnographic research
--   Multimedia production • Building codebooks • Public speaking
+- Data gathering
+- Data management
+- Research design
+- Text analysis
+- Data processing
+- Ethnographic research
+- Multimedia production
+- Building codebooks
+- Public speaking
 
 
 Professional Experience

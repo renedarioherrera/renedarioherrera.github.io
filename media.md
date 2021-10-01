@@ -12,3 +12,9 @@ From April 2017 to June 2018 Rene along with friend and colleague, Spencer Bocko
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLkl2Jxqchs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Coming Soon
+
+
+The next iteration of this podcast project will be focused on investigating the world of work. 

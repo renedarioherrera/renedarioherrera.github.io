@@ -5,6 +5,6 @@
 layout: home
 ---
 
-This is the personal web site for Rene Dario Herrera. Rene is a public health anthropologist, biostatistician, and fitness professional.
+This is the personal web site for Rene Dario Herrera. Rene is a public health anthropologist, biostatistician, epidemiologist, and fitness professional.
 
 ![Image for Rene Dario Herrera from 2015](images/rene-herrera.png)

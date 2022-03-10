@@ -14,10 +14,13 @@ Key Skills
 - Research design
 - Text analysis
 - Data processing
-- Ethnographic research
+- Qualitative research
 - Multimedia production
 - Building codebooks
 - Public speaking
+- User experience research
+- Interviews (structured, semi-structured, intercept)
+- Survey 
 
 
 Professional Experience
@@ -25,6 +28,7 @@ Professional Experience
 
 ### Qualitative Data Analysis
 
+- Ethnographic research
 -   Gather and process data for qualitative analysis
 -   Design and conduct interviews
 -   Design and facilitate focus groups
@@ -46,20 +50,22 @@ Professional Experience
 -   Conduct statistical modeling and analysis of cancer burden trends
 -   Present results as an academic presentation, publication, or for the
     public
--   Experience with ArcGIS
+-   Experience with geospatial analysis using R, ArcGIS, and GRASS
 
 Employment History
 ------------------
 
--   **University of Arizona Cancer Center**; Data Analyst; 10/19 -
+-   **Coconino County Health and Human Services**; *Epidemiologist*; 10/21 -
     Present
+-   **University of Arizona Cancer Center**; Data Analyst; 10/19 -
+    10/21
 -   **Estrella Mountain Community College**; Adjunct Faculty; 8/19 -
     Present
 -   **University of South Florida College of Public Health**; Graduate
     Research Assistant; 10/16 - 8/18
 -   **University of South Florida College of Arts and Sciences**;
     Graduate Teaching Assistant; 8/15 - 5/17
--   **Mountain Park Health Center**; Systems Manager; 05/08 - 07/15
+-   **Mountain Park Health Center**; Systems Manager & Clinic Supervisor; 05/08 - 07/15
 
 Publications
 ------------
@@ -84,10 +90,14 @@ Presentations
 Abstracts
 ---------
 
+
 -   Herrera, Rene, Omar Contreras, and Jennifer Hatcher. “Building
     Partnership with Town Halls: Engaging the Community with
     Conversation.” Abstract presented at the 2020 Annual Meeting of the
-    Southwestern Anthropological Association, n.d.
+    Southwestern Anthropological Association, n.d.  
+- Jones, Desiree, Gabriela Ruiz, Octavio Castaños, René Herrera, Juan Contreras II, David O. Garcia, Monica Yellowhair, and Jennifer Hatcher. "Development of virtual outreach strategies to supply cancer education and prevention information during the COVID-19 pandemic." Abstract presented at the 2022 Annual Meeting of the American Association for Cancer Research, n.d.
+- Jones, Desiree, Gabriela Ruiz, Juan Contreras II, René Herrera, Amanda A. Lee, Monica Yellowhair, and Jennifer Hatcher. "Administering colorectal cancer education via an inflatable colon with the underrepresented and underserved population of Arizona." Abstract presented at the 2022 Annual Meeting of the American Association for Cancer Research, n.d.
+
 
 Education
 ---------
@@ -95,7 +105,7 @@ Education
 -   2022 Graduate Certificate, **Arizona State University**, Social
     Science Research Methods
 -   2018 M.P.H., **University of South Florida**, Epidemiology
--   2018 M.A., **University of South Florida**, Anthropology
+-   2018 M.A., **University of South Florida**, Applied Anthropology
 -   2018 Graduate Certificate, **University of South Florida**, Applied
     Biostatistics
 -   2008 B.S., **Arizona State University** (cum laude), Exercise and

@@ -12,12 +12,14 @@ title: Research Portfolio
 ## Data Visualization
 
 
+- ![Housing Affordability in Arizona](images/infographic-az-housing-cost.png)
 - [Dashboard examples](https://rpubs.com/UAZCC_Rene)
 
 
 ## Mapping and GIS
 
 
+- ![Visualizing Cancer Risk](images/poster-visualize-az-cancer-burden.png)
 - [Mapping with arcGIS](https://www.arcgis.com/home/item.html?id=c1d23697ede24d03b5807049597dc186)
 
 
@@ -26,7 +28,7 @@ title: Research Portfolio
 
 Visit my page on GitHub to see more of my data analysis projects.
 
-[Rene Herrera on GitHub](https://github.com/renedarioherrera)
+- [Rene Herrera on GitHub](https://github.com/renedarioherrera)
 
 ### Graphs and Figures from my Thesis research
 
@@ -46,4 +48,4 @@ In this boxplot, see how it would appear the ideal frequency for exercise to max
 
 ![Histogram: Dog Poops Each Hour](images/dog-poop-tracking.png)
 
-After we adopted our dog in December we started tracking the time of day he would go out for a poop. After several weeks and months we were able to plot it and see which time of day he was most likely to poop (6AM, 8AM, 4PM, and 10PM). We then used that to help us schedule his time outside and minimize indoor accidents.
+After we adopted our dog in December of 2018 we started tracking the time of day he would go out for a poop. After several months we were able to plot it and see which time of day he was most likely to poop (6AM, 8AM, 4PM, and 10PM). We then used that to help us schedule his time outside and minimize indoor accidents.

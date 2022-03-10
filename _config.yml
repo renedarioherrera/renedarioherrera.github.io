@@ -21,7 +21,7 @@
 title: Rene Dario Herrera
 email: renedherrera@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This simple static site serves as a profesional portfolio.
+  A professional portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: reneherrera
